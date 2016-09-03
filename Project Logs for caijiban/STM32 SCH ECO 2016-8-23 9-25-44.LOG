@@ -1,0 +1,34 @@
+Change Value of Parameter Value in Part C24 Old=100pF New=0.1uF
+Change Value of Parameter Value in Part C25 Old=100pF New=10uF
+Change Value of Parameter Value in Part C26 Old=100pF New=1uF
+Change Value of Parameter Value in Part C27 Old=100pF New=0.1uF
+Change Value of Parameter Value in Part C28 Old=100pF New=22pF
+Change Value of Parameter Value in Part C29 Old=100pF New=22pF
+Change Value of Parameter Value in Part C32 Old=100pF New=0.1uF
+Change Value of Parameter Value in Part C34 Old=100pF New=0.1uF
+Change Value of Parameter Value in Part C36 Old=100pF New=10uF
+Change Value of Parameter Value in Part C37 Old=100pF New=10uF
+Change Value of Parameter Value in Part C38 Old=100pF New=10uF
+Change Value of Parameter Value in Part C40 Old=100pF New=0.1uF
+Change Value of Parameter Value in Part C41 Old=100pF New=0.1uF
+Change Value of Parameter Value in Part C42 Old=100pF New=0.1uF
+Change Value of Parameter Value in Part C45 Old=100pF New=0.1uF
+Change Value of Parameter Value in Part C86 Old=100pF New=0.1uF
+Change Value of Parameter Value in Part C97 Old=100pF New=10uF
+Change Value of Parameter Value in Part C177 Old=100pF New=22pF
+Change Value of Parameter Value in Part L1 Old=10mH New=2.2uH
+Change Value of Parameter Value in Part R10 Old=1K New=4.7K
+Change Value of Parameter Value in Part R23 Old=1K New=10K
+Change Value of Parameter Value in Part R24 Old=1K New=10K
+Change Value of Parameter Value in Part R25 Old=1K New=1M
+Change Value of Parameter Value in Part R27 Old=1K New=10K
+Change Value of Parameter Value in Part R28 Old=1K New=10K
+Change Value of Parameter Value in Part R56 Old=1K New=10K
+Change Value of Parameter Value in Part R64 Old=1K New=10K
+Change Value of Parameter Value in Part R119 Old=1K New=10K
+Change Value of Parameter Value in Part R122 Old=1K New=100R
+Change Value of Parameter Value in Part R162 Old=1K New=4.7K
+Change Value of Parameter Value in Part R165 Old=1K New=4.7K
+Change Value of Parameter Value in Part R168 Old=1K New=100R
+Added Parameter Value=8.0MHZ to Part X1
+Added Parameter Value=23.768MHZ to Part X2

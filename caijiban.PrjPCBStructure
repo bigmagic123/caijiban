@@ -1,0 +1,13 @@
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=28P1|SchDesignator=28P1|FileName=28P1.SCHDOC|SymbolType=Normal|RawFileName=28P1.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SCHDOC|SymbolType=Normal|RawFileName=Power.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=U_26P2|SchDesignator=U_26P2|FileName=26P2.SchDoc|SymbolType=Normal|RawFileName=26P2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=U_P1IO|SchDesignator=U_P1IO|FileName=P1IO.SchDoc|SymbolType=Normal|RawFileName=P1IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=U_P2IO|SchDesignator=U_P2IO|FileName=P2IO.SchDoc|SymbolType=Normal|RawFileName=P2IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=U_STM32|SchDesignator=U_STM32|FileName=STM32.SchDoc|SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=P1IO.SchDoc|Designator=U_集成隔离器（4）|SchDesignator=U_集成隔离器（4）|FileName=集成隔离器（4）.SchDoc|SymbolType=Normal|RawFileName=集成隔离器（4）.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=P1IO.SchDoc|Designator=U_输出放大（6）|SchDesignator=U_输出放大（6）|FileName=输出放大（6）.SchDoc|SymbolType=Normal|RawFileName=输出放大（6）.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=P1IO.SchDoc|Designator=U_输出运算放大(3)|SchDesignator=U_输出运算放大(3)|FileName=输出运算放大(3).SchDoc|SymbolType=Normal|RawFileName=输出运算放大(3).SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=P1IO.SchDoc|Designator=U_输出运算放大器（5）|SchDesignator=U_输出运算放大器（5）|FileName=输出运算放大器（5）.SchDoc|SymbolType=Normal|RawFileName=输出运算放大器（5）.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=P1IO.SchDoc|Designator=U_四通道输出运算放大（2）|SchDesignator=U_四通道输出运算放大（2）|FileName=四通道输出运算放大（2）.SchDoc|SymbolType=Normal|RawFileName=四通道输出运算放大（2）.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=P1IO.SchDoc|Designator=U_智能四通道高端开关（1）|SchDesignator=U_智能四通道高端开关（1）|FileName=智能四通道高端开关（1）.SchDoc|SymbolType=Normal|RawFileName=智能四通道高端开关（1）.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=TOP.SchDoc

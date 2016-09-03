@@ -1,0 +1,1303 @@
+Removed Pin From Net: NetName=NewNet236 Pin= U16-1
+Removed Pin From Net: NetName=NewNet237 Pin= U16-2
+Removed Pin From Net: NetName=NewNet9 Pin= U16-3
+Removed Pin From Net: NetName=NewNet38 Pin= U16-4
+Removed Pin From Net: NetName=NewNet9 Pin= U16-5
+Removed Pin From Net: NetName=NewNet9 Pin= U16-6
+Change Component Footprint: Designator=L1 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R1 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R2 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R3 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R4 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R5 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R6 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R7 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R8 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R9 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R10 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R11 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R12 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R13 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R14 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R15 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R16 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R17 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R18 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R19 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R20 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R21 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R22 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R23 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R24 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R25 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R26 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R27 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R28 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R29 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R30 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R31 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R32 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R33 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R34 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R35 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R36 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R37 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R38 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R39 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R40 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R41 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R42 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R43 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R44 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R45 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R46 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R47 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R48 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R49 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R50 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R51 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R52 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R53 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R54 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R55 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R56 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R57 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R58 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R59 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R60 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R61 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R62 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R63 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R64 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R65 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R66 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R67 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R68 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R69 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R70 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R71 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R72 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R73 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R74 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R75 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R76 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R77 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R78 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R79 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R80 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R81 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R82 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R83 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R84 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R85 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R86 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R87 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R88 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R89 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R90 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R91 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R92 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R93 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R94 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R95 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R96 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R97 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R98 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R99 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R100 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R101 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R102 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R103 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R104 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R105 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R106 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R107 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R108 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R109 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R110 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R111 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R112 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R113 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R114 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R115 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R116 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R117 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R118 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R119 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R120 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R121 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R123 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R124 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R125 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R126 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R127 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R128 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R129 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R130 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R131 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R132 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R133 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R134 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R135 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R136 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R137 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R138 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R139 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R140 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R141 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R142 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R143 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R144 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R145 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R146 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R147 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R148 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R149 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R150 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R151 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R152 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R153 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R154 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R155 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R156 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R157 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R158 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R159 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R160 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R161 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R162 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R163 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R164 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R165 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R166 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R167 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R169 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R170 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R171 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R172 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R173 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R174 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R175 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R176 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R177 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R178 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R179 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R180 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R181 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R182 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R183 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R184 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R201 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R202 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R204 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R207 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R208 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R209 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R211 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R212 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R213 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R214 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R215 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R216 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R217 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R218 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R219 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R220 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R221 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R222 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R223 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R224 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=R225 Old Footprint=1 New Footprint=R0805
+Change Component Footprint: Designator=C1 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C4 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C5 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C6 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C7 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C10 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C12 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C13 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C14 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C16 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C18 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C19 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C20 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C21 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C22 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C23 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C24 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C26 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C27 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C28 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C29 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C30 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C31 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C32 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C33 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C34 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C40 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C41 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C42 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C43 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C44 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C45 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C47 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C48 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C49 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C50 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C51 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C52 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C54 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C55 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C56 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C57 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C58 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C59 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C60 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C61 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C62 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C63 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C64 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C65 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C66 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C67 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C68 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C69 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C70 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C71 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C72 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C73 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C74 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C75 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C76 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C77 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C78 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C79 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C80 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C81 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C82 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C84 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C88 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C90 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C91 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C98 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C99 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C102 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C103 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C105 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C106 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C107 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C108 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C115 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C116 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C117 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C118 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C122 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C130 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C131 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C132 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C140 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C141 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C142 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C143 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C144 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C153 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C177 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C200 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C201 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C202 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C203 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C210 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C211 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C212 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C213 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C214 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C215 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C216 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C220 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C221 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C222 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C254 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C255 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C258 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C259 Old Footprint=2 New Footprint=C0805
+Change Component Footprint: Designator=C15 Old Footprint=3 New Footprint=C1206
+Change Component Footprint: Designator=L2 Old Footprint=3 New Footprint=C1206
+Change Component Footprint: Designator=L3 Old Footprint=3 New Footprint=R1206
+Change Component Footprint: Designator=R122 Old Footprint=3 New Footprint=R1206
+Change Component Footprint: Designator=R168 Old Footprint=3 New Footprint=R1206
+Change Component Footprint: Designator=R203 Old Footprint=3 New Footprint=R1206
+Change Component Footprint: Designator=R205 Old Footprint=3 New Footprint=R1206
+Change Component Footprint: Designator=R206 Old Footprint=3 New Footprint=R1206
+Change Component Footprint: Designator=R210 Old Footprint=3 New Footprint=R1206
+Change Component Footprint: Designator=C2 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C3 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C8 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C9 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C11 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C17 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C25 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C35 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C36 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C37 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C38 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C39 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C46 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C87 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C92 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C93 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C94 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C95 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C96 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C97 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C100 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C101 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C104 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C109 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C110 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C111 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C112 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C113 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C114 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C252 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C253 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C256 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=C257 Old Footprint=4 New Footprint=C1206
+Change Component Footprint: Designator=D2 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D3 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D4 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D5 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D6 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D7 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D8 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D9 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D10 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D11 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D12 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D13 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D14 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D15 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D16 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D17 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D18 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D19 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D20 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D21 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D22 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D23 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D24 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D25 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D26 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D27 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D28 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D29 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D30 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D31 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D32 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D33 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D34 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D35 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D36 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D37 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D42 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D43 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D44 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D45 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D47 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D49 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D50 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D51 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D52 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D53 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D54 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D55 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D62 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D63 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D100 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D102 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D104 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D105 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D106 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D107 Old Footprint=5 New Footprint=SOD123
+Change Component Footprint: Designator=D38 Old Footprint=6 New Footprint=DO214AB
+Change Component Footprint: Designator=TVS1 Old Footprint=6 New Footprint=DO214AB
+Change Component Footprint: Designator=TVS2 Old Footprint=6 New Footprint=DO214AB
+Change Component Footprint: Designator=D101 Old Footprint=6 New Footprint=SMA
+Change Component Footprint: Designator=D103 Old Footprint=6 New Footprint=SMA
+Change Component Footprint: Designator=MN2 Old Footprint=7 New Footprint=MN2
+Change Component Footprint: Designator=Q43 Old Footprint=7 New Footprint=Q43
+Change Component Footprint: Designator=Q45 Old Footprint=7 New Footprint=Q45
+Change Component Footprint: Designator=Q46 Old Footprint=7 New Footprint=Q46
+Change Component Footprint: Designator=MN1 Old Footprint=7 New Footprint=SOT23-3
+Change Component Footprint: Designator=U7 Old Footprint=7 New Footprint=SOT23-3
+Change Component Footprint: Designator=D1 Old Footprint=8 New Footprint=SOT23-3
+Change Component Footprint: Designator=U9 Old Footprint=9 New Footprint=SOT23-5
+Change Component Footprint: Designator=U11 Old Footprint=9 New Footprint=SOT23-5
+Change Component Footprint: Designator=U18 Old Footprint=9 New Footprint=SOT23-5
+Change Component Footprint: Designator=U20 Old Footprint=9 New Footprint=SOT23-5
+Change Component Footprint: Designator=U24 Old Footprint=9 New Footprint=SOT23-5
+Change Component Footprint: Designator=U26 Old Footprint=9 New Footprint=SOT23-5
+Change Component Footprint: Designator=U2 Old Footprint=10 New Footprint=SO-8
+Change Component Footprint: Designator=U10 Old Footprint=10 New Footprint=SO-8
+Change Component Footprint: Designator=U19 Old Footprint=10 New Footprint=SO-8
+Change Component Footprint: Designator=U17 Old Footprint=11 New Footprint=SOP-8
+Change Component Footprint: Designator=U23 Old Footprint=12 New Footprint=SOIC-8
+Change Component Footprint: Designator=U6 Old Footprint=13 New Footprint=SOP-14
+Change Component Footprint: Designator=U8 Old Footprint=13 New Footprint=SOP-14
+Change Component Footprint: Designator=U25 Old Footprint=13 New Footprint=SOP-14
+Change Component Footprint: Designator=U4 Old Footprint=14 New Footprint=SO-16
+Change Component Footprint: Designator=U12 Old Footprint=14 New Footprint=SO-16
+Change Component Footprint: Designator=U13 Old Footprint=14 New Footprint=SO-16
+Change Component Footprint: Designator=U14 Old Footprint=14 New Footprint=SO-16
+Change Component Footprint: Designator=U15 Old Footprint=15 New Footprint=SOP-20
+Change Component Footprint: Designator=U1 Old Footprint=16 New Footprint=SOIC-16
+Change Component Footprint: Designator=U3 Old Footprint=17 New Footprint=SOIC-20
+Change Component Footprint: Designator=U5 Old Footprint=18 New Footprint=LQFP64
+Change Component Footprint: Designator=X1 Old Footprint=19 New Footprint=5032-2P
+Change Component Footprint: Designator=X2 Old Footprint=20 New Footprint=黑色3*8-4
+Change Component Footprint: Designator=U21 Old Footprint=21 New Footprint=SOT-223
+Change Component Footprint: Designator=TR1 Old Footprint=22 New Footprint=1008
+Change Component Footprint: Designator=TR2 Old Footprint=22 New Footprint=1008
+Change Component Footprint: Designator=D39 Old Footprint=23 New Footprint=DO214AB
+Change Component Footprint: Designator=D40 Old Footprint=23 New Footprint=DO214AB
+Change Component Footprint: Designator=D41 Old Footprint=23 New Footprint=DO214AB
+Change Component Footprint: Designator=D46 Old Footprint=23 New Footprint=DO214AB
+Change Component Footprint: Designator=D57 Old Footprint=23 New Footprint=DO214AB
+Change Component Footprint: Designator=D58 Old Footprint=23 New Footprint=DO214AB
+Change Component Footprint: Designator=D59 Old Footprint=23 New Footprint=DO214AB
+Change Component Footprint: Designator=D60 Old Footprint=23 New Footprint=DO214AB
+Change Component Footprint: Designator=C53 Old Footprint=24 New Footprint=8*12
+Change Component Footprint: Designator=C83 Old Footprint=24 New Footprint=8*12
+Change Component Footprint: Designator=C85 Old Footprint=24 New Footprint=8*12
+Change Component Footprint: Designator=C89 Old Footprint=24 New Footprint=8*12
+Change Component Footprint: Designator=C250 Old Footprint=24 New Footprint=8*12
+Change Component Footprint: Designator=C251 Old Footprint=24 New Footprint=8*12
+Change Component Footprint: Designator=CE1 Old Footprint=24 New Footprint=8*12
+Change Component Footprint: Designator=CE3 Old Footprint=24 New Footprint=8*12
+Change Component Footprint: Designator=KF1 Old Footprint=25 New Footprint=1812
+Change Component Footprint: Designator=D48 Old Footprint=26 New Footprint=DO-218AB
+Change Component Footprint: Designator=L4 Old Footprint=27 New Footprint=7*7
+Change Component Footprint: Designator=L7 Old Footprint=27 New Footprint=7*7
+Change Component Footprint: Designator=L5 Old Footprint=28 New Footprint=12.5*12.5
+Change Component Footprint: Designator=L6 Old Footprint=30 New Footprint=直插共模电感
+Change Component Footprint: Designator=E1 Old Footprint=31 New Footprint=法拉电容电池
+Change Component Footprint: Designator=E2 Old Footprint=31 New Footprint=法拉电容电池
+Change Component Footprint: Designator=P2 Old Footprint=32 New Footprint=2*13
+Change Component Footprint: Designator=P1 Old Footprint=33 New Footprint=2*14
+Change Component Footprint: Designator=U22 Old Footprint=34 New Footprint=WRA2415
+Change Component Footprint: Designator=J2 Old Footprint=35 New Footprint=J2DIP
+Change Component Footprint: Designator=2V5 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=3V3 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=5VA2 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=5VA4 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=5VA Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=5VD Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=24V Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=+15V Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=-15V Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=A0 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=A1 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=A2 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=A3 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=A4 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=AGND2 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=AGND4 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=AGND Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=ANGD3 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=DA1 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=DA2 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=SCK1 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=TP1 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=TP2 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=TP17 Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=VBAT Old Footprint=36 New Footprint=圆形焊盘
+Change Component Footprint: Designator=GND Old Footprint=37 New Footprint=方形焊盘
+Change Component Footprint: Designator=C86 Old Footprint=38 New Footprint=C86单独封装
+Change Component Footprint: Designator=C119 Old Footprint=39 New Footprint=C1210
+Change Component Footprint: Designator=C120 Old Footprint=39 New Footprint=C1210
+Change Component Footprint: Designator=C121 Old Footprint=39 New Footprint=C1210
+Change Component Comment : Designator=D55 Old Comment= New Comment=1N4148W
+Change Component Comment : Designator=D49 Old Comment= New Comment=1N4148W
+Change Component Comment : Designator=C19 Old Comment= New Comment=1uF/10%
+Change Component Comment : Designator=R131 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R130 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R128 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R127 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R125 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R124 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R120 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R118 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R116 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R115 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R113 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R112 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R110 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R108 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R107 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R106 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R104 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R102 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R101 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R100 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R98 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R96 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R95 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R94 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R91 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R88 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R83 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R82 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R77 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R76 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R71 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=R70 Old Comment= New Comment=10K/1%
+Change Component Comment : Designator=C257 Old Comment= New Comment=10uF
+Change Component Comment : Designator=C256 Old Comment= New Comment=10uF
+Change Component Comment : Designator=C253 Old Comment= New Comment=10uF
+Change Component Comment : Designator=C252 Old Comment= New Comment=10uF
+Change Component Comment : Designator=C95 Old Comment= New Comment=10uF
+Change Component Comment : Designator=C94 Old Comment= New Comment=10uF
+Change Component Comment : Designator=C93 Old Comment= New Comment=10uF
+Change Component Comment : Designator=C87 Old Comment= New Comment=10uF
+Change Component Comment : Designator=R20 Old Comment= New Comment=15R/1%
+Change Component Comment : Designator=R19 Old Comment= New Comment=15R/1%
+Change Component Comment : Designator=C82 Old Comment= New Comment=22pF/5%
+Change Component Comment : Designator=P2 Old Comment= New Comment=26PIN
+Change Component Comment : Designator=P1 Old Comment= New Comment=28PIN
+Change Component Comment : Designator=X2 Old Comment= New Comment=32.768 MHZ
+Change Component Comment : Designator=U20 Old Comment= New Comment=74HCLG14GV
+Change Component Comment : Designator=U18 Old Comment= New Comment=74HCLG14GV
+Change Component Comment : Designator=U11 Old Comment= New Comment=74HCLG14GV
+Change Component Comment : Designator=U9 Old Comment= New Comment=74HCLG14GV
+Change Component Comment : Designator=U14 Old Comment= New Comment=74HCT165D
+Change Component Comment : Designator=U13 Old Comment= New Comment=74HCT165D
+Change Component Comment : Designator=U12 Old Comment= New Comment=74HCT165D
+Change Component Comment : Designator=R132 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R129 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R126 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R121 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R117 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R114 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R111 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R109 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R105 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R103 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R99 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R97 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R93 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R90 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R87 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R85 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R81 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R79 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R75 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=R73 Old Comment= New Comment=100K/1%
+Change Component Comment : Designator=L7 Old Comment= New Comment=101
+Change Component Comment : Designator=L4 Old Comment= New Comment=101
+Change Component Comment : Designator=C259 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C258 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C255 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C254 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C103 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C90 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C88 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C84 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C80 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C79 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C77 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C75 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C74 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C73 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C72 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C71 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C70 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C69 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C67 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C66 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C65 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C64 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C63 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C62 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C61 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C60 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C58 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C57 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C55 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C43 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C30 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C23 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C22 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=C21 Old Comment= New Comment=104/10%
+Change Component Comment : Designator=R45 Old Comment= New Comment=150
+Change Component Comment : Designator=TR2 Old Comment= New Comment=ACM2520
+Change Component Comment : Designator=TR1 Old Comment= New Comment=ACM2520
+Change Component Comment : Designator=U3 Old Comment= New Comment=ADM2587E
+Change Component Comment : Designator=U1 Old Comment= New Comment=ADUM5401
+Change Component Comment : Designator=U21 Old Comment= New Comment=AMS1117-3.3
+Change Component Comment : Designator=D41 Old Comment= New Comment=B540C
+Change Component Comment : Designator=D40 Old Comment= New Comment=B540C
+Change Component Comment : Designator=U15 Old Comment= New Comment=BTS711L
+Change Component Comment : Designator=C222 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C221 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C220 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C216 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C215 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C214 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C213 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C212 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C211 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C210 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C203 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C202 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C201 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C200 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C177 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C153 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C144 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C143 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C142 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C141 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C140 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C132 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C131 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C130 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C122 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C121 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C120 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C119 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C118 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C117 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C116 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C115 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C114 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C113 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C112 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C111 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C110 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C109 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C108 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C107 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C106 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C105 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C104 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C102 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C101 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C100 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C99 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C98 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C97 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C96 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C92 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C91 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C86 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C81 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C78 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C76 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C68 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C59 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C56 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C54 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C52 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C51 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C50 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C49 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C48 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C47 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C46 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C45 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C44 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C42 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C41 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C40 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C39 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C38 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C37 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C36 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C35 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C34 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C33 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C32 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C31 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C29 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C28 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C27 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C26 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C25 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C24 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C20 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C18 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C17 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C16 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C15 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C14 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C13 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C12 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C11 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C10 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C9 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C8 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C7 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C6 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C5 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C4 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C3 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C2 Old Comment= New Comment=Cap
+Change Component Comment : Designator=C1 Old Comment= New Comment=Cap
+Change Component Comment : Designator=CE3 Old Comment= New Comment=Cap2
+Change Component Comment : Designator=CE1 Old Comment= New Comment=Cap2
+Change Component Comment : Designator=C251 Old Comment= New Comment=Cap2
+Change Component Comment : Designator=C250 Old Comment= New Comment=Cap2
+Change Component Comment : Designator=C89 Old Comment= New Comment=Cap2
+Change Component Comment : Designator=C85 Old Comment= New Comment=Cap2
+Change Component Comment : Designator=C83 Old Comment= New Comment=Cap2
+Change Component Comment : Designator=C53 Old Comment= New Comment=Cap2
+Change Component Comment : Designator=D54 Old Comment= New Comment=Diode 1N4001
+Change Component Comment : Designator=D53 Old Comment= New Comment=Diode 1N4001
+Change Component Comment : Designator=D50 Old Comment= New Comment=Diode 1N4001
+Change Component Comment : Designator=D2 Old Comment= New Comment=Diode 1N4001
+Change Component Comment : Designator=TVS2 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=TVS1 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D107 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D106 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D105 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D104 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D103 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D102 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D101 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D100 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D63 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D62 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D60 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D59 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D58 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D57 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D52 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D51 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D47 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D45 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D44 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D43 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D42 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D37 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D14 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D13 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D12 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D11 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D10 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D9 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D8 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D7 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D6 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D5 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D4 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=D3 Old Comment= New Comment=Diode 1N4007
+Change Component Comment : Designator=U17 Old Comment= New Comment=DS1302Z
+Change Component Comment : Designator=U23 Old Comment= New Comment=FM25CL64B
+Change Component Comment : Designator=L3 Old Comment= New Comment=Inductor
+Change Component Comment : Designator=L2 Old Comment= New Comment=Inductor
+Change Component Comment : Designator=L1 Old Comment= New Comment=Inductor
+Change Component Comment : Designator=J2 Old Comment= New Comment=J2
+Change Component Comment : Designator=U19 Old Comment= New Comment=LM2903
+Change Component Comment : Designator=U10 Old Comment= New Comment=LM2903
+Change Component Comment : Designator=U26 Old Comment= New Comment=LMV321
+Change Component Comment : Designator=U24 Old Comment= New Comment=LMV321
+Change Component Comment : Designator=U25 Old Comment= New Comment=LMV324
+Change Component Comment : Designator=U8 Old Comment= New Comment=LMV324
+Change Component Comment : Designator=U6 Old Comment= New Comment=LMV324
+Change Component Comment : Designator=L6 Old Comment= New Comment=LW4
+Change Component Comment : Designator=D38 Old Comment= New Comment=M7
+Change Component Comment : Designator=U4 Old Comment= New Comment=MAX232
+Change Component Comment : Designator=D36 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D35 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D34 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D33 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D32 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D31 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D30 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D29 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D28 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D27 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D26 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D25 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D24 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D23 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D22 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D21 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D20 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D19 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D18 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D17 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D16 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=D15 Old Comment= New Comment=MMSZ5230B
+Change Component Comment : Designator=R92 Old Comment= New Comment=NC
+Change Component Comment : Designator=R89 Old Comment= New Comment=NC
+Change Component Comment : Designator=R86 Old Comment= New Comment=NC
+Change Component Comment : Designator=R84 Old Comment= New Comment=NC
+Change Component Comment : Designator=R80 Old Comment= New Comment=NC
+Change Component Comment : Designator=R78 Old Comment= New Comment=NC
+Change Component Comment : Designator=R74 Old Comment= New Comment=NC
+Change Component Comment : Designator=R72 Old Comment= New Comment=NC
+Change Component Comment : Designator=U7 Old Comment= New Comment=NPN
+Change Component Comment : Designator=Q46 Old Comment= New Comment=NPN
+Change Component Comment : Designator=Q45 Old Comment= New Comment=NPN
+Change Component Comment : Designator=MN2 Old Comment= New Comment=NPN
+Change Component Comment : Designator=MN1 Old Comment= New Comment=NPN
+Change Component Comment : Designator=KF1 Old Comment= New Comment=P200
+Change Component Comment : Designator=VBAT Old Comment= New Comment=PIN
+Change Component Comment : Designator=TP17 Old Comment= New Comment=PIN
+Change Component Comment : Designator=TP2 Old Comment= New Comment=PIN
+Change Component Comment : Designator=TP1 Old Comment= New Comment=PIN
+Change Component Comment : Designator=SCK1 Old Comment= New Comment=PIN
+Change Component Comment : Designator=DA2 Old Comment= New Comment=PIN
+Change Component Comment : Designator=DA1 Old Comment= New Comment=PIN
+Change Component Comment : Designator=ANGD3 Old Comment= New Comment=PIN
+Change Component Comment : Designator=AGND Old Comment= New Comment=PIN
+Change Component Comment : Designator=AGND4 Old Comment= New Comment=PIN
+Change Component Comment : Designator=AGND2 Old Comment= New Comment=PIN
+Change Component Comment : Designator=A4 Old Comment= New Comment=PIN
+Change Component Comment : Designator=A3 Old Comment= New Comment=PIN
+Change Component Comment : Designator=A2 Old Comment= New Comment=PIN
+Change Component Comment : Designator=A1 Old Comment= New Comment=PIN
+Change Component Comment : Designator=A0 Old Comment= New Comment=PIN
+Change Component Comment : Designator=-15V Old Comment= New Comment=PIN
+Change Component Comment : Designator=+15V Old Comment= New Comment=PIN
+Change Component Comment : Designator=24V Old Comment= New Comment=PIN
+Change Component Comment : Designator=5VD Old Comment= New Comment=PIN
+Change Component Comment : Designator=5VA Old Comment= New Comment=PIN
+Change Component Comment : Designator=5VA4 Old Comment= New Comment=PIN
+Change Component Comment : Designator=5VA2 Old Comment= New Comment=PIN
+Change Component Comment : Designator=3V3 Old Comment= New Comment=PIN
+Change Component Comment : Designator=2V5 Old Comment= New Comment=PIN
+Change Component Comment : Designator=Q43 Old Comment= New Comment=PNP
+Change Component Comment : Designator=D1 Old Comment= New Comment=PSM712
+Change Component Comment : Designator=R225 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R224 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R223 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R222 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R221 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R220 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R219 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R218 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R217 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R216 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R215 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R214 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R213 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R212 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R211 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R210 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R209 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R208 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R207 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R206 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R205 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R204 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R203 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R202 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R201 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R184 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R183 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R182 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R181 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R180 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R179 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R178 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R177 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R176 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R175 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R174 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R173 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R172 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R171 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R170 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R169 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R168 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R167 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R166 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R165 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R164 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R163 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R162 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R161 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R160 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R159 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R158 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R157 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R156 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R155 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R154 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R153 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R152 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R151 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R150 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R149 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R148 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R147 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R146 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R145 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R144 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R143 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R142 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R141 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R140 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R139 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R138 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R137 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R136 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R135 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R134 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R133 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R123 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R122 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R119 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R69 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R68 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R67 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R66 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R65 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R64 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R63 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R62 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R61 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R60 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R59 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R58 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R57 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R56 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R55 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R54 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R53 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R52 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R51 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R50 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R49 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R48 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R47 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R46 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R44 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R43 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R42 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R41 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R40 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R39 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R38 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R37 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R36 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R35 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R34 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R33 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R32 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R31 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R30 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R29 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R28 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R27 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R26 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R25 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R24 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R23 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R22 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R21 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R18 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R17 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R16 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R15 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R14 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R13 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R12 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R11 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R10 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R9 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R8 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R7 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R6 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R5 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R4 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R3 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R2 Old Comment= New Comment=Res2
+Change Component Comment : Designator=R1 Old Comment= New Comment=Res2
+Change Component Comment : Designator=L5 Old Comment= New Comment=SLF12575T-470M2R7-PF
+Change Component Comment : Designator=D48 Old Comment= New Comment=SM8S36A
+Change Component Comment : Designator=D46 Old Comment= New Comment=SMCJ48A
+Change Component Comment : Designator=D39 Old Comment= New Comment=SMCJ48A
+Change Component Comment : Designator=U5 Old Comment= New Comment=STM32F103RCT6
+Change Component Comment : Designator=U2 Old Comment= New Comment=TJA1050T
+Change Component Comment : Designator=U22 Old Comment= New Comment=WRA2415ZP-3W
+Change Component Comment : Designator=X1 Old Comment= New Comment=XTAL
+Change Component Comment : Designator=E1 Old Comment= New Comment=大电容
+Change Component Comment : Designator=E2 Old Comment= New Comment=纽扣电池
+Change Component Comment : Designator=GND Old Comment=GND New Comment=TEST
+Added Component: Designator=U16(TOP2-63)
+Added Pin To Net: NetName=NewNet9 Pin=GND-1
+Added Pin To Net: NetName=NewNet236 Pin=U16-1
+Added Pin To Net: NetName=NewNet237 Pin=U16-2
+Added Pin To Net: NetName=NewNet9 Pin=U16-3
+Added Pin To Net: NetName=NewNet38 Pin=U16-4
+Added Pin To Net: NetName=NewNet9 Pin=U16-5
+Added Pin To Net: NetName=NewNet9 Pin=U16-6
+Change Net Name : Old Net Name=NewNet1 New Net Name=P1-17
+Change Net Name : Old Net Name=NewNet2 New Net Name=NetC51_2
+Change Net Name : Old Net Name=NewNet3 New Net Name=P1-9
+Change Net Name : Old Net Name=NewNet4 New Net Name=NetD44_2
+Change Net Name : Old Net Name=NewNet5 New Net Name=NetC108_2
+Change Net Name : Old Net Name=NewNet6 New Net Name=NetD102_2
+Change Net Name : Old Net Name=NewNet7 New Net Name=NetD102_1
+Change Net Name : Old Net Name=NewNet8 New Net Name=NetC212_1
+Change Net Name : Old Net Name=NewNet9 New Net Name=GND
+Change Net Name : Old Net Name=NewNet10 New Net Name=D4-U12
+Change Net Name : Old Net Name=NewNet11 New Net Name=+24V
+Change Net Name : Old Net Name=NewNet12 New Net Name=P2-9
+Change Net Name : Old Net Name=NewNet13 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NewNet14 New Net Name=+3.3V
+Change Net Name : Old Net Name=NewNet15 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NewNet16 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NewNet17 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NewNet18 New Net Name=P1-16
+Change Net Name : Old Net Name=NewNet19 New Net Name=P1-15
+Change Net Name : Old Net Name=NewNet20 New Net Name=P1-13
+Change Net Name : Old Net Name=NewNet21 New Net Name=P1-14
+Change Net Name : Old Net Name=NewNet22 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NewNet23 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NewNet24 New Net Name=NetR68_2
+Change Net Name : Old Net Name=NewNet25 New Net Name=NetC105_1
+Change Net Name : Old Net Name=NewNet26 New Net Name=NetC91_1
+Change Net Name : Old Net Name=NewNet27 New Net Name=NetR60_2
+Change Net Name : Old Net Name=NewNet28 New Net Name=NetR149_2
+Change Net Name : Old Net Name=NewNet29 New Net Name=NetC107_2
+Change Net Name : Old Net Name=NewNet30 New Net Name=NetC118_2
+Change Net Name : Old Net Name=NewNet31 New Net Name=NetR157_1
+Change Net Name : Old Net Name=NewNet32 New Net Name=NetR170_1
+Change Net Name : Old Net Name=NewNet33 New Net Name=+5VA
+Change Net Name : Old Net Name=NewNet34 New Net Name=AGND
+Change Net Name : Old Net Name=NewNet35 New Net Name=NetR183_2
+Change Net Name : Old Net Name=NewNet36 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NewNet37 New Net Name=NetR151_1
+Change Net Name : Old Net Name=NewNet38 New Net Name=+5.0V
+Change Net Name : Old Net Name=NewNet39 New Net Name=D0-U12
+Change Net Name : Old Net Name=NewNet40 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NewNet41 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NewNet42 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NewNet43 New Net Name=NetR18_1
+Change Net Name : Old Net Name=NewNet44 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NewNet45 New Net Name=NetC21_1
+Change Net Name : Old Net Name=NewNet46 New Net Name=NetC19_1
+Change Net Name : Old Net Name=NewNet47 New Net Name=NetC23_1
+Change Net Name : Old Net Name=NewNet48 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NewNet49 New Net Name=NetC22_1
+Change Net Name : Old Net Name=NewNet50 New Net Name=ARM-34
+Change Net Name : Old Net Name=NewNet51 New Net Name=ARM-36
+Change Net Name : Old Net Name=NewNet52 New Net Name=D0-U14
+Change Net Name : Old Net Name=NewNet53 New Net Name=D1-U14
+Change Net Name : Old Net Name=NewNet54 New Net Name=D2-U14
+Change Net Name : Old Net Name=NewNet55 New Net Name=D3-U14
+Change Net Name : Old Net Name=NewNet56 New Net Name=ARM-33
+Change Net Name : Old Net Name=NewNet57 New Net Name=NetU13_10
+Change Net Name : Old Net Name=NewNet58 New Net Name=ARM-35
+Change Net Name : Old Net Name=NewNet59 New Net Name=D3-U12
+Change Net Name : Old Net Name=NewNet60 New Net Name=D2-U12
+Change Net Name : Old Net Name=NewNet61 New Net Name=D1-U12
+Change Net Name : Old Net Name=NewNet62 New Net Name=NetU12_10
+Change Net Name : Old Net Name=NewNet63 New Net Name=D5-U12
+Change Net Name : Old Net Name=NewNet64 New Net Name=D6-U12
+Change Net Name : Old Net Name=NewNet65 New Net Name=D7-U12
+Change Net Name : Old Net Name=NewNet66 New Net Name=D7-U13
+Change Net Name : Old Net Name=NewNet67 New Net Name=D6-U13
+Change Net Name : Old Net Name=NewNet68 New Net Name=D5-U13
+Change Net Name : Old Net Name=NewNet69 New Net Name=D4-U13
+Change Net Name : Old Net Name=NewNet70 New Net Name=D0-U13
+Change Net Name : Old Net Name=NewNet71 New Net Name=D1-U13
+Change Net Name : Old Net Name=NewNet72 New Net Name=D2-U13
+Change Net Name : Old Net Name=NewNet73 New Net Name=D3-U13
+Change Net Name : Old Net Name=NewNet74 New Net Name=NetC29_2
+Change Net Name : Old Net Name=NewNet75 New Net Name=NetC28_1
+Change Net Name : Old Net Name=NewNet76 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NewNet77 New Net Name=NetU17_2
+Change Net Name : Old Net Name=NewNet78 New Net Name=NetU17_3
+Change Net Name : Old Net Name=NewNet79 New Net Name=ARM-61
+Change Net Name : Old Net Name=NewNet80 New Net Name=ARM-59
+Change Net Name : Old Net Name=NewNet81 New Net Name=ARM-58
+Change Net Name : Old Net Name=NewNet82 New Net Name=NetD53_2
+Change Net Name : Old Net Name=NewNet83 New Net Name=+2.5V
+Change Net Name : Old Net Name=NewNet84 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NewNet85 New Net Name=NetR32_1
+Change Net Name : Old Net Name=NewNet86 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NewNet87 New Net Name=NetR40_2
+Change Net Name : Old Net Name=NewNet88 New Net Name=NetR38_1
+Change Net Name : Old Net Name=NewNet89 New Net Name=NetR44_1
+Change Net Name : Old Net Name=NewNet90 New Net Name=NetR46_2
+Change Net Name : Old Net Name=NewNet91 New Net Name=NetR43_2
+Change Net Name : Old Net Name=NewNet92 New Net Name=NetR49_2
+Change Net Name : Old Net Name=NewNet93 New Net Name=NetR52_1
+Change Net Name : Old Net Name=NewNet94 New Net Name=NetR50_2
+Change Net Name : Old Net Name=NewNet95 New Net Name=NetD100_1
+Change Net Name : Old Net Name=NewNet96 New Net Name=NetD100_2
+Change Net Name : Old Net Name=NewNet97 New Net Name=NetC211_1
+Change Net Name : Old Net Name=NewNet98 New Net Name=NetR143_2
+Change Net Name : Old Net Name=NewNet99 New Net Name=NetC106_1
+Change Net Name : Old Net Name=NewNet100 New Net Name=NetC54_2
+Change Net Name : Old Net Name=NewNet101 New Net Name=NetR54_2
+Change Net Name : Old Net Name=NewNet102 New Net Name=NetR62_1
+Change Net Name : Old Net Name=NewNet103 New Net Name=NetC56_1
+Change Net Name : Old Net Name=NewNet104 New Net Name=NetR123_1
+Change Net Name : Old Net Name=NewNet105 New Net Name=NetC143_1
+Change Net Name : Old Net Name=NewNet106 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NewNet107 New Net Name=P1-21
+Change Net Name : Old Net Name=NewNet108 New Net Name=NetR134_2
+Change Net Name : Old Net Name=NewNet109 New Net Name=NetC49_1
+Change Net Name : Old Net Name=NewNet110 New Net Name=NetR133_1
+Change Net Name : Old Net Name=NewNet111 New Net Name=NetR153_2
+Change Net Name : Old Net Name=NewNet112 New Net Name=NetR180_2
+Change Net Name : Old Net Name=NewNet113 New Net Name=NetR159_2
+Change Net Name : Old Net Name=NewNet114 New Net Name=P1-22
+Change Net Name : Old Net Name=NewNet115 New Net Name=NetR153_1
+Change Net Name : Old Net Name=NewNet116 New Net Name=NetR182_2
+Change Net Name : Old Net Name=NewNet117 New Net Name=NetR35_1
+Change Net Name : Old Net Name=NewNet118 New Net Name=NetC48_1
+Change Net Name : Old Net Name=NewNet119 New Net Name=ARM-60
+Change Net Name : Old Net Name=NewNet120 New Net Name=NetD49_1
+Change Net Name : Old Net Name=NewNet121 New Net Name=P1-26
+Change Net Name : Old Net Name=NewNet122 New Net Name=Net24V_1
+Change Net Name : Old Net Name=NewNet123 New Net Name=ARM-20
+Change Net Name : Old Net Name=NewNet124 New Net Name=ARM-21
+Change Net Name : Old Net Name=NewNet125 New Net Name=ARM-44
+Change Net Name : Old Net Name=NewNet126 New Net Name=ARM-45
+Change Net Name : Old Net Name=NewNet127 New Net Name=+5VA2
+Change Net Name : Old Net Name=NewNet128 New Net Name=AGND4
+Change Net Name : Old Net Name=NewNet129 New Net Name=5VA4
+Change Net Name : Old Net Name=NewNet130 New Net Name=AGND2
+Change Net Name : Old Net Name=NewNet131 New Net Name=ARM-55
+Change Net Name : Old Net Name=NewNet132 New Net Name=ARM-11
+Change Net Name : Old Net Name=NewNet133 New Net Name=ARM-9
+Change Net Name : Old Net Name=NewNet134 New Net Name=ARM-24
+Change Net Name : Old Net Name=NewNet135 New Net Name=ARM-10
+Change Net Name : Old Net Name=NewNet136 New Net Name=ARM-8
+Change Net Name : Old Net Name=NewNet137 New Net Name=+3.0V
+Change Net Name : Old Net Name=NewNet138 New Net Name=+5.5V
+Change Net Name : Old Net Name=NewNet139 New Net Name=NetD41_2
+Change Net Name : Old Net Name=NewNet140 New Net Name=P1-25
+Change Net Name : Old Net Name=NewNet141 New Net Name=NetKF1_1
+Change Net Name : Old Net Name=NewNet142 New Net Name=P1-27
+Change Net Name : Old Net Name=NewNet143 New Net Name=NetD38_1
+Change Net Name : Old Net Name=NewNet144 New Net Name=P1-6
+Change Net Name : Old Net Name=NewNet145 New Net Name=P1-5
+Change Net Name : Old Net Name=NewNet146 New Net Name=P1-4
+Change Net Name : Old Net Name=NewNet147 New Net Name=P1-3
+Change Net Name : Old Net Name=NewNet148 New Net Name=ARM-62
+Change Net Name : Old Net Name=NewNet149 New Net Name=ARM-57
+Change Net Name : Old Net Name=NewNet150 New Net Name=ARM-56
+Change Net Name : Old Net Name=NewNet151 New Net Name=ARM-52
+Change Net Name : Old Net Name=NewNet152 New Net Name=ARM-51
+Change Net Name : Old Net Name=NewNet153 New Net Name=ARM-50
+Change Net Name : Old Net Name=NewNet154 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NewNet155 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NewNet156 New Net Name=ARM-43
+Change Net Name : Old Net Name=NewNet157 New Net Name=ARM-42
+Change Net Name : Old Net Name=NewNet158 New Net Name=ARM-40
+Change Net Name : Old Net Name=NewNet159 New Net Name=ARM-39
+Change Net Name : Old Net Name=NewNet160 New Net Name=ARM-38
+Change Net Name : Old Net Name=NewNet161 New Net Name=ARM-37
+Change Net Name : Old Net Name=NewNet162 New Net Name=ARM-30
+Change Net Name : Old Net Name=NewNet163 New Net Name=ARM-29
+Change Net Name : Old Net Name=NewNet164 New Net Name=ARM-26
+Change Net Name : Old Net Name=NewNet165 New Net Name=ARM-25
+Change Net Name : Old Net Name=NewNet166 New Net Name=ARM-17
+Change Net Name : Old Net Name=NewNet167 New Net Name=ARM-16
+Change Net Name : Old Net Name=NewNet168 New Net Name=ARM-15
+Change Net Name : Old Net Name=NewNet169 New Net Name=ARM-14
+Change Net Name : Old Net Name=NewNet170 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NewNet171 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NewNet172 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NewNet173 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NewNet174 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NewNet175 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NewNet176 New Net Name=NetU1_11
+Change Net Name : Old Net Name=NewNet177 New Net Name=NetU1_12
+Change Net Name : Old Net Name=NewNet178 New Net Name=NetR139_1
+Change Net Name : Old Net Name=NewNet179 New Net Name=NetR138_1
+Change Net Name : Old Net Name=NewNet180 New Net Name=NetD37_1
+Change Net Name : Old Net Name=NewNet181 New Net Name=NetR137_1
+Change Net Name : Old Net Name=NewNet182 New Net Name=NetR136_1
+Change Net Name : Old Net Name=NewNet183 New Net Name=NetR207_1
+Change Net Name : Old Net Name=NewNet184 New Net Name=NetR208_1
+Change Net Name : Old Net Name=NewNet185 New Net Name=NetC215_2
+Change Net Name : Old Net Name=NewNet186 New Net Name=NetR217_2
+Change Net Name : Old Net Name=NewNet187 New Net Name=NetR218_1
+Change Net Name : Old Net Name=NewNet188 New Net Name=NetR219_1
+Change Net Name : Old Net Name=NewNet189 New Net Name=NetC213_2
+Change Net Name : Old Net Name=NewNet190 New Net Name=NetR214_2
+Change Net Name : Old Net Name=NewNet191 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NewNet192 New Net Name=NetR165_1
+Change Net Name : Old Net Name=NewNet193 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NewNet194 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NewNet195 New Net Name=NetC52_2
+Change Net Name : Old Net Name=NewNet196 New Net Name=NetC50_2
+Change Net Name : Old Net Name=NewNet197 New Net Name=P1-18
+Change Net Name : Old Net Name=NewNet198 New Net Name=P1-23
+Change Net Name : Old Net Name=NewNet199 New Net Name=NetD42_2
+Change Net Name : Old Net Name=NewNet200 New Net Name=P1-24
+Change Net Name : Old Net Name=NewNet201 New Net Name=P1-20
+Change Net Name : Old Net Name=NewNet202 New Net Name=NetD13_2
+Change Net Name : Old Net Name=NewNet203 New Net Name=NetD11_2
+Change Net Name : Old Net Name=NewNet204 New Net Name=P1-19
+Change Net Name : Old Net Name=NewNet205 New Net Name=P1-11
+Change Net Name : Old Net Name=NewNet206 New Net Name=P2-1
+Change Net Name : Old Net Name=NewNet207 New Net Name=P2-2
+Change Net Name : Old Net Name=NewNet208 New Net Name=P2-3
+Change Net Name : Old Net Name=NewNet209 New Net Name=P2-4
+Change Net Name : Old Net Name=NewNet210 New Net Name=P2-5
+Change Net Name : Old Net Name=NewNet211 New Net Name=P2-7
+Change Net Name : Old Net Name=NewNet212 New Net Name=NetD55_2
+Change Net Name : Old Net Name=NewNet213 New Net Name=P2-20
+Change Net Name : Old Net Name=NewNet214 New Net Name=P2-19
+Change Net Name : Old Net Name=NewNet215 New Net Name=P2-18
+Change Net Name : Old Net Name=NewNet216 New Net Name=P2-17
+Change Net Name : Old Net Name=NewNet217 New Net Name=P2-16
+Change Net Name : Old Net Name=NewNet218 New Net Name=P2-15
+Change Net Name : Old Net Name=NewNet219 New Net Name=P2-14
+Change Net Name : Old Net Name=NewNet220 New Net Name=P2-13
+Change Net Name : Old Net Name=NewNet221 New Net Name=P2-12
+Change Net Name : Old Net Name=NewNet222 New Net Name=P2-11
+Change Net Name : Old Net Name=NewNet223 New Net Name=P2-10
+Change Net Name : Old Net Name=NewNet224 New Net Name=P2-8
+Change Net Name : Old Net Name=NewNet225 New Net Name=P2-22
+Change Net Name : Old Net Name=NewNet226 New Net Name=P2-21
+Change Net Name : Old Net Name=NewNet227 New Net Name=P1-7
+Change Net Name : Old Net Name=NewNet228 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NewNet229 New Net Name=P2-23
+Change Net Name : Old Net Name=NewNet230 New Net Name=NetD49_2
+Change Net Name : Old Net Name=NewNet231 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NewNet232 New Net Name=NetD50_1
+Change Net Name : Old Net Name=NewNet233 New Net Name=P1-8
+Change Net Name : Old Net Name=NewNet234 New Net Name=P1-10
+Change Net Name : Old Net Name=NewNet235 New Net Name=P2-6
+Change Net Name : Old Net Name=NewNet236 New Net Name=NetC82_2
+Change Net Name : Old Net Name=NewNet237 New Net Name=NetD40_2
+Change Net Name : Old Net Name=NewNet238 New Net Name=NET238
+Change Net Name : Old Net Name=NewNet246 New Net Name=NetC220_1
+Change Net Name : Old Net Name=NewNet247 New Net Name=P1-12
+Change Net Name : Old Net Name=NewNet248 New Net Name=NetR224_1
+Change Net Name : Old Net Name=NewNet249 New Net Name=NetR224_2
+Change Net Name : Old Net Name=NewNet250 New Net Name=ARM-23
+Added Pin To Net: NetName=P1-28 Pin=P1-28
+Added Net: Name=P1-28
+Added Class: Name=26P2
+Added Class: Name=28P1
+Added Class: Name=P2IO
+Added Class: Name=Power
+Added Class: Name=STM32
+Added Class: Name=集成隔离器（4）
+Added Class: Name=输出放大（6）
+Added Class: Name=输出运算放大(3)
+Added Class: Name=输出运算放大器（5）
+Added Class: Name=四通道输出运算放大（2）
+Added Class: Name=智能四通道高端开关（1）
+Added Room: Name=26P2
+Added Room: Name=28P1
+Added Room: Name=P2IO
+Added Room: Name=Power
+Added Room: Name=STM32
+Added Room: Name=集成隔离器（4）
+Added Room: Name=输出放大（6）
+Added Room: Name=输出运算放大(3)
+Added Room: Name=输出运算放大器（5）
+Added Room: Name=四通道输出运算放大（2）
+Added Room: Name=智能四通道高端开关（1）
